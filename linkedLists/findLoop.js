@@ -23,3 +23,4 @@ function findLoop(head) {
   }
   return fastPtr;
 }
+
